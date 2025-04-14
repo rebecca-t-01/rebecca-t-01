@@ -1,0 +1,82 @@
+th, td
+        {
+            padding: 10px
+        }
+
+        .cocktail {
+
+        background-color: rgb(136, 92, 206);
+        float: left;
+        margin-right: 30px;
+        padding: 20px
+        line-height: 30px;
+        display: inline-block;
+        text-align: center;
+        border: 5px solid black;
+        }
+
+        .cocktail-pic {
+         border: 5px solid black;
+ 
+           
+          
+        }
+
+
+       .party-rules {
+        background-color: rgb(136, 92, 206);
+        border: 5px solid black;
+        margin-top: 1px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 30px;
+        padding-right: 30px;
+        display: inline-block;
+        text-align: center;
+        float: right;
+        width: 35%;
+        height: 180px;
+
+        
+       }
+
+        body {
+            background-color: rgb(100, 94, 94);
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        h1 {
+            color: rgb(241, 197, 255);
+            text-align: center;
+        }
+
+        h2 {
+            color: rgb(241, 197, 255);
+            text-align: center;
+        }
+
+        .celebration-banner {
+        z-index: 1;
+         
+        
+        
+         }
+
+        .banner-text {
+        z-index: 2;
+        position: absolute;
+        top: 20px;
+       }
+
+.intro-high
+{
+  margin-top: 10px;
+  text-align: right;
+  
+  
+}
+
+ol {
+  line-height: 40px;
+}
+    </style>
